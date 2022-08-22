@@ -97,12 +97,11 @@ justify-content: center;
   margin: 0 auto;
   background: #F2F2F2;
   overflow: hidden;
-  padding: 0;
-  width: 95vw;
+  padding: 0 4px;
 }
 @media screen and (min-width: 576px) {
   .main {
-    width: 100vw;
+    padding: 0;
   }
 }
 
